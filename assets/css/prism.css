@@ -24,6 +24,10 @@ pre[class*="language-"] {
 	-moz-hyphens: none;
 	-ms-hyphens: none;
 	hyphens: none;
+
+    font-family: source code pro;
+    font-size: 14px;
+    line-height: 1.5;	
 }
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
